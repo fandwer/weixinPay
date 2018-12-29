@@ -41,9 +41,3 @@ refund.php 退款
 4.如提示签名错误可以通过微信支付签名验证工具进行验证：https://pay.weixin.qq.com/wiki/tools/signverify/
 
 
-# 若对您有帮助，可以赞助并支持下作者哦，谢谢！
-
-<p align="center">
-    <img src="https://www.dedemao.com/uploads/zan.jpg" width="500px">
-    <p align="center">联系邮箱：884358@qq.com</p>
-</p>
